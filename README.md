@@ -1,0 +1,2 @@
+# visitka
+&lt;!DOCTYPE html> &lt;html lang="en"> &lt;head>   &lt;meta charset="UTF-8">   &lt;title>Особиста сайт-візитка&lt;/title> &lt;/head> &lt;body>   &lt;h1>Ім'я та прізвище&lt;/h1>   &lt;p>Про себе&lt;/p>   &lt;ul>     &lt;li>Навчання&lt;/li>     &lt;li>Досвід роботи&lt;/li>     &lt;li>Вміння&lt;/li>   &lt;/ul>   &lt;a href="https://github.com/[ваше ім'я]">GitHub&lt;/a> &lt;/body> &lt;/html>
