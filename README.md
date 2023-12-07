@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Особиста сайт-візитка</title>
+  Особиста сайт-візитка
 </head>
 <body>
   <h1>Зуєв Дмитро</h1>
